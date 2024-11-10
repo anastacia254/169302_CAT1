@@ -54,7 +54,7 @@ class Instructor:
 # Interactive code for instructor to add students and assign grades
 
 # Create an instructor
-instructor = Instructor("Dr. Smith", "Computer Science 101")
+instructor = Instructor("Dr.Muya", "Computer Science 3101")
 
 while True:
     print("\nCourse Management System")
